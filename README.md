@@ -12,7 +12,7 @@
 - iPhone/iPad
 - Payment GateWay(Stripe)
 
-🌱 Laerning:
+🌱 Learning:
 - Unit Testing
 - UI Testing
 - Vapor
