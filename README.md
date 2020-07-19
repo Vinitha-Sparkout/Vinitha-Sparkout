@@ -19,8 +19,8 @@
 - Design Pattern (MVVMC)
 
 📫 Get in touch: 💬
-Gmail - info2vinitha@gmail.com
-Instagram - https://www.instagram.com/vinitha_sdkv/
-Github : - https://github.com/Vinitha-Sparkout
-GitLab - https://gitlab.com/vinitha.s
-LinkedIn - https://www.linkedin.com/in/vinitha-selvaraj/
+- Gmail - info2vinitha@gmail.com
+- Instagram - https://www.instagram.com/vinitha_sdkv/
+- Github : - https://github.com/Vinitha-Sparkout
+- GitLab - https://gitlab.com/vinitha.s
+- LinkedIn - https://www.linkedin.com/in/vinitha-selvaraj/
