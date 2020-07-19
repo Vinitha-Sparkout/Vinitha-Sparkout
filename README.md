@@ -1,16 +1,26 @@
 ### Hi I'm Vinitha 
 
-<!--
-Vinitha-Sparkout/Vinitha-Sparkout is a ✨ Mobile Application Developer (iOS)✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+💻 To code and build something New is as beautiful as cherishing your wildest dreams.
 
+✨ Mobile Application Developer (iOS)✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Expertise :
+
+- Swift 
+- Design Patterns (MVC)
+- iPhone/iPad
+- Payment GateWay(Stripe)
+
+🌱 Laerning:
+- Unit Testing
+- UI Testing
+- Vapor
+- Design Pattern (MVVMC)
+
+📫 Get in touch: 💬
+Gmail - info2vinitha@gmail.com
+Instagram - https://www.instagram.com/vinitha_sdkv/
+Github : - https://github.com/Vinitha-Sparkout
+GitLab - https://gitlab.com/vinitha.s
+LinkedIn - https://www.linkedin.com/in/vinitha-selvaraj/
